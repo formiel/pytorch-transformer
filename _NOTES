@@ -56,6 +56,7 @@ Start training
 | end of epoch   3 | time: 73.95s | valid loss  5.49 | valid ppl   241.64
 -----------------------------------------------------------------------------------------
 
+
 ******* LAYERDROP = 0.2
 
 Start training
